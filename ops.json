@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "00000000-0000-0000-0009-01f6d979c7d3",
+    "name": ".NhatAnhNeCon",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f579db1e-0002-383f-994d-9e9f753dbf94",
+    "name": "NhatAnhDN",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

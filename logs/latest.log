@@ -1,0 +1,19 @@
+[08:50:35] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username NhatAnhNeCon
+[08:50:35] [localSession-7-3/INFO]: [Geyser-Spigot] NhatAnhNeCon (logged in as: NhatAnhNeCon) has connected to the Java server
+[08:50:36] [Server thread/INFO]: [floodgate] Floodgate player logged in as .NhatAnhNeCon joined (UUID: 00000000-0000-0000-0009-01f6d979c7d3)
+[08:50:36] [Server thread/INFO]: .NhatAnhNeCon joined the game
+[08:50:36] [Server thread/INFO]: .NhatAnhNeCon[/113.185.93.118:0] logged in with entity id 26512 at ([world]65.43708, 63.0, -62.269707)
+[08:54:08] [Server thread/WARN]: .NhatAnhNeCon was kicked for floating too long!
+[08:54:08] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .NhatAnhNeCon disconnected
+[08:54:08] [localSession-7-3/INFO]: [Geyser-Spigot] NhatAnhNeCon has disconnected from the Java server because of Flying is not enabled on this server
+[08:54:08] [Server thread/INFO]: .NhatAnhNeCon lost connection: Flying is not enabled on this server
+[08:54:08] [Server thread/INFO]: .NhatAnhNeCon left the game
+[11:52:41] [localSession-7-4/INFO]: [Geyser-Spigot] NhatAnhNeCon (logged in as: NhatAnhNeCon) has connected to the Java server
+[11:52:41] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username NhatAnhNeCon
+[11:52:42] [Server thread/INFO]: [floodgate] Floodgate player logged in as .NhatAnhNeCon joined (UUID: 00000000-0000-0000-0009-01f6d979c7d3)
+[11:52:42] [Server thread/INFO]: .NhatAnhNeCon joined the game
+[11:52:42] [Server thread/INFO]: .NhatAnhNeCon[/118.68.26.185:0] logged in with entity id 27365 at ([world]172.59766, 63.0, -87.38556)
+[11:54:31] [localSession-7-4/INFO]: [Geyser-Spigot] NhatAnhNeCon has disconnected from the Java server because of Bedrock client timed out
+[11:54:31] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .NhatAnhNeCon disconnected
+[11:54:31] [Server thread/INFO]: .NhatAnhNeCon lost connection: Disconnected
+[11:54:31] [Server thread/INFO]: .NhatAnhNeCon left the game
